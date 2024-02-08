@@ -13,10 +13,7 @@ services:
       - service4
       - service5
       - service6
-      - service7
-      - service8
-      - service9
-      - service10
+      
 
   service1:
     build: ./service1
